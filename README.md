@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Racket, Java, and Python
-- 👯 I would like to learn R
+- 🌱 I’m currently proficient in Racket, Java, and MySQL
+- 👯 I would like to learn more about C and Python
 - 💬 Ask me about Northeastern!
 - 📫 How to reach me: personal email: aarushgarg1011@gmail.com
                        student email: garg.aar@northeastern.edu
