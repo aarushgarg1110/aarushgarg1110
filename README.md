@@ -7,3 +7,5 @@
                        student email: garg.aar@northeastern.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: One of my hobbies include ceramics!
+
+- StocksSimulator Project available upon request
